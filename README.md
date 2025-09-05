@@ -90,19 +90,15 @@ ProjetPFA/
    ```bash
    cd ProjetPFA/Projet2
    ```
-2. Créer un environnement virtuel et installer les dépendances nécessaires (ex. `pandas`, `pyodbc`, `azure` SDK).
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Lancer les scripts Python :
+2. Lancer les scripts Python :
    ```bash
    python BronzeLayer.py
    python SilverLayer.py
    python GoldLayer.py
    ```
-4. Exécuter les requêtes SQL depuis `Synapse.sql` dans **Azure Synapse**.
+3. Exécuter les requêtes SQL depuis `Synapse.sql` dans **Azure Synapse**.
 
 ---
 
 ## 👨‍💻 Auteur
-- **[Votre Nom]**
+- **Aymen Boubetana**
